@@ -59,7 +59,6 @@ const IPLookup = (() => {
                 pc.setLocalDescription(sdp);
             });
 
-            //Finally returts the promise when its resolved or rejected on the pc.onicecandidate event handler. 
             return promise;
         }
     };
