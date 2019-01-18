@@ -1,0 +1,27 @@
+{
+  "name": "ip-lookup",
+  "version": "1.0.0",
+  "description": "Get public and private user's IP.",
+  "main": "src/ip-lookup.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "javascript",
+    "network",
+    "ip",
+    "public ip",
+    "private ip",
+    "ip lookup"
+  ],
+  "author": "Luiz Alfredo (luizalfredocb@gmail.com)",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-jasmine": "^2.0.3",
+    "grunt-contrib-jshint": "~2.0.0",
+    "grunt-contrib-uglify": "^3.4.0"
+  }
+}
