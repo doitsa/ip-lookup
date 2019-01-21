@@ -5,7 +5,7 @@ This project provides two functions for fetching public and private IP.
 
 When using methods a Promise is returned, this means user should use promise methods to finally obtain IP's values.
 
-##Example of usage
+## Example of usage
 
 ### Using methods separately
 
